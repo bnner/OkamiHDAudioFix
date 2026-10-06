@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OkamiHDAudioFix/OkamiHDAudioFix.vcxproj" Id="86c17559-9e51-4cde-a32f-a73350ed43d7" />
+</Solution>

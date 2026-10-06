@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+x64/
+Debug/
+Release/
+obj/
+
+# vcpkg generated files
+vcpkg_installed/
+
+# Intermediate/build artifacts
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
